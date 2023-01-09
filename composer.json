@@ -1,0 +1,14 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": " Mohamed Aqib ",
+        "email": "21005739@rp.edu.sg"
+      }
+    ],
+    "require": {
+    }
+  }
